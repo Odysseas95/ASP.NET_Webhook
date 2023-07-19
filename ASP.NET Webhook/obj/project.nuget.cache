@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NQVbER9ER4zMvv9h2CiD0SEmR5n1WTnM4PL6uEtJC/U72gB0fbNOIquvvDg3nrEPsyMxvqy6aGxu02+Mao9jLQ==",
+  "success": true,
+  "projectFilePath": "D:\\Odysseas\\Desktop\\ASP.NET_Webhook\\ASP.NET Webhook\\ASP.NET_Webhook.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Odysseas\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
