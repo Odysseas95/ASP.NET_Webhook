@@ -61,11 +61,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Odysseas\\Desktop\\ASP.NET_Webhook\\ASP.NET Webhook\\ASP.NET_Webhook.csproj",
+      "projectUniqueName": "D:\\Odysseas\\Projects\\GitHub\\ASP.NET_Webhook\\ASP.NET Webhook\\ASP.NET_Webhook.csproj",
       "projectName": "ASP.NET_Webhook",
-      "projectPath": "D:\\Odysseas\\Desktop\\ASP.NET_Webhook\\ASP.NET Webhook\\ASP.NET_Webhook.csproj",
+      "projectPath": "D:\\Odysseas\\Projects\\GitHub\\ASP.NET_Webhook\\ASP.NET Webhook\\ASP.NET_Webhook.csproj",
       "packagesPath": "C:\\Users\\Odysseas\\.nuget\\packages\\",
-      "outputPath": "D:\\Odysseas\\Desktop\\ASP.NET_Webhook\\ASP.NET Webhook\\obj\\",
+      "outputPath": "D:\\Odysseas\\Projects\\GitHub\\ASP.NET_Webhook\\ASP.NET Webhook\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
